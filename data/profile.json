@@ -1,0 +1,64 @@
+{
+  "name": "Odemur Marangoni",
+  "photo": "https://avatars.githubusercontent.com/u/118846877?v=4",
+  "job": "Front-end Developer",
+  "location": "São Paulo, Brazil",
+  "phone": "[N/A]",
+  "email": "dev@odemur.com.br",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/javascript.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Entrega de valor",
+      "Problem Solver"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Projeto 1",
+      "url": "https://www.odemur.com.br"
+    },
+    {
+      "name": "Projeto 2",
+      "url": "https://www.odemur.com.br"
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Front-end Developer",
+      "period": "Since 1999",
+      "description": "."
+    }
+  ]
+}
